@@ -83,7 +83,7 @@ body{
 #grid-container .number-cell{
 	border-radius: 6px;
 	position: absolute;
-	font: bold 50px Arial;
+	font: bold 45px Arial;
 	text-align: center;
 	line-height: 100px;
 }
