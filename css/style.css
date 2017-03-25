@@ -3,7 +3,7 @@ body{
 }
 #header{
 	width: 500px;
-	height: 103px;
+	height: 130px;
 	margin: 0 auto;
 	position: relative;	
 }
@@ -13,7 +13,7 @@ body{
 }
 #header .score{
 	width: 80px;
-	height: 40px;
+	height: 60px;
 	border-radius: 5px;
 	padding-top: 10px;
 	font-size: 15px;
@@ -33,7 +33,7 @@ body{
 }
 #header .best{
 	width: 80px;
-	height: 40px;
+	height: 60px;
 	border-radius: 5px;
 	padding-top: 10px;
 	font-size: 15px;
@@ -61,7 +61,7 @@ body{
 	color: #fff;
 	text-decoration: none;
 	position: absolute;
-	top: 60px;
+	top: 80px;
 	right: 0;
 }
 #grid-container{
